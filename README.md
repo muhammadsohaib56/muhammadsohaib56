@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sohaibshoukat56@gmail.com**
 
-- 📄 Know about my experiences [https://my-portfolio-v6f6-o1v6yvo1q-muhammad-sohaib-shoukats-projects.vercel.app/](https://my-portfolio-v6f6-o1v6yvo1q-muhammad-sohaib-shoukats-projects.vercel.app/)
+- 📄 Know about my experiences [https://portfolio-website-6mrt11dyv.vercel.app/](https://portfolio-website-6mrt11dyv.vercel.app/)
 
 - ⚡ Fun fact **Critical Thinking**
 
