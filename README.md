@@ -182,10 +182,10 @@ Open-source work includes a [healthcare RAG system](https://github.com/muhammads
 
 <p align="center">
   <a href="https://github.com/muhammadsohaib56">
-    <img height="160" src="https://YOUR-INSTANCE.vercel.app/api?username=muhammadsohaib56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&hide_title=true&cache_seconds=7200" alt="GitHub stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadsohaib56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&hide_title=true&cache_seconds=7200" alt="GitHub stats">
   </a>
   <a href="https://github.com/muhammadsohaib56?tab=repositories">
-    <img height="160" src="https://YOUR-INSTANCE.vercel.app/api/top-langs?username=muhammadsohaib56&layout=compact&hide_border=true&langs_count=8&theme=transparent&hide_title=true&cache_seconds=7200" alt="Top languages">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsohaib56&layout=compact&hide_border=true&langs_count=8&theme=transparent&hide_title=true&cache_seconds=7200" alt="Top languages">
   </a>
 </p>
 
