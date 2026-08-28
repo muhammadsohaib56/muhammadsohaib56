@@ -1,41 +1,125 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sohaib Shoukat</h1>
-<h3 align="center">A passionate Generative AI and ML Engineer from Pakistan</h3>
+<h1 align="center">Muhammad Sohaib Shoukat</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsohaib56&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsohaib56" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsohaib56" alt="muhammadsohaib56" /></a> </p>
-
-- 🔭 I’m currently working on **Generative AI and ML**
-
-- 🌱 I’m currently learning **Generative AI, ML, DL, Data Science and Data Engineering**
-
-- 👯 I’m looking to collaborate on [FAST NUCES](https://my-portfolio-v6f6-o1v6yvo1q-muhammad-sohaib-shoukats-projects.vercel.app/)
-
-- 🤝 I’m looking for help with **ML and Generative AI Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/muhammadsohaib56](https://github.com/muhammadsohaib56)
-
-- 📝 I regularly write articles on [https://medium.com/@f219181](https://medium.com/@f219181)
-
-- 💬 Ask me about **ML,DL,Gen-AI,Data Science,NLP,Web and App Development**
-
-- 📫 How to reach me **sohaibshoukat56@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-website-6mrt11dyv.vercel.app/](https://portfolio-website-6mrt11dyv.vercel.app/)
-
-- ⚡ Fun fact **Critical Thinking**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-sohaib-shoukat-7b4064218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-sohaib-shoukat-7b4064218/" height="30" width="40" /></a>
-<a href="https://instagram.com/sohaibshoukat56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohaibshoukat56" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@f219181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@f219181" height="30" width="40" /></a>
+<p align="center">
+  <b>AI/ML Engineer</b> · Generative AI, RAG systems, and applied NLP<br>
+  <sub>Lahore, Pakistan — building retrieval and LLM systems that run in production, not just notebooks.</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://portfolio-website-6mrt11dyv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/muhammad-sohaib-shoukat-7b4064218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@f219181"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:sohaibshoukat56@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsohaib56&show_icons=true&locale=en&layout=compact" alt="muhammadsohaib56" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsohaib56&show_icons=true&locale=en" alt="muhammadsohaib56" /></p>
+## About
 
+I'm an AI/ML Engineer at **[Inovaqo](https://github.com/Inovaqo)** and a Computer Science graduate of **FAST NUCES**. My work centers on retrieval-augmented generation — getting language models to ground their answers in real documents instead of improvising them.
+
+Most of what I build falls into three buckets: RAG pipelines over domain-specific corpora (clinical notes, long-form books), speech and multilingual systems, and the infrastructure around them — MCP servers, vector stores, deployment.
+
+- 🔭 **Currently building** — production RAG systems and LLM tooling at Inovaqo
+- 🌱 **Currently learning** — agentic architectures, model evaluation, and data engineering at scale
+- ✍️ **Writing** — [ML and Generative AI articles on Medium](https://medium.com/@f219181)
+- 💬 **Ask me about** — RAG, embeddings and vector search, LLM fine-tuning, NLP
+- 📫 **Reach me** — [sohaibshoukat56@gmail.com](mailto:sohaibshoukat56@gmail.com)
+
+---
+
+## Featured Work
+
+### 📚 [Book Condensation Tool — RAG](https://github.com/muhammadsohaib56/Book-Condensation-Tool-RAG)
+Condenses 500+ page books into ~100 pages while preserving chapter structure and narrative flow. Built on Retrieval-Augmented Generation with Groq's LLaMA 4, designed to scale across long documents where naive chunking loses the thread.
+> `Python` · `RAG` · `Groq` · `LLaMA 4`
+
+### 🏥 [Healthcare RAG System](https://github.com/muhammadsohaib56/Healthcare-Retrieval-Augmented-Generation-AI)
+A retrieval system over the MIMIC-IV-Ext clinical dataset. Retrieves relevant clinical notes via Sentence Transformers and FAISS, then generates grounded answers — the goal being traceability back to source notes rather than unsupported generation.
+> `Python` · `FAISS` · `Sentence Transformers` · `MIMIC-IV`
+
+### 🔌 [MCP Server with Ollama LLM](https://github.com/muhammadsohaib56/MCP-Server-Implementation-with-OLLAMA-LLM-)
+A Model Context Protocol client-server implementation wired to Ollama's Llama 3.1, exposing unit conversion as an interactive CLI tool. A working reference for how MCP tool-calling fits together end to end.
+> `Python` · `MCP` · `Ollama` · `Llama 3.1`
+
+### 🗣️ [Multilingual Speech Translator](https://github.com/muhammadsohaib56/Multilingual-Speech-Translator-with-Whisper-LLaMA)
+Full speech-to-speech pipeline: Whisper transcribes the audio, LLaMA translates it into French, Urdu, or Spanish, and the output is synthesized back to speech.
+> `Whisper` · `LLaMA` · `Speech Synthesis`
+
+### 🛡️ [STL Gun Part Detector](https://github.com/muhammadsohaib56/STL-Gun-Part-Detector-for-3D-Printing)
+A content-safety screening tool for 3D printing labs. Scans uploaded STL files, extracts mesh metrics (volume, face count, aspect ratio), and flags potential weapon components via shape-based heuristics for human review.
+> `Python` · `Mesh Analysis` · `Trimesh`
+
+### 🪶 [Roman Urdu Poetry Generator](https://github.com/muhammadsohaib56/Roman-Urdu-Poetry-Generator)
+A GRU trained from scratch to generate Roman Urdu poetry from a seed word and target length.
+> `Jupyter` · `GRU` · `PyTorch`
+
+<p align="left">
+  <a href="https://github.com/muhammadsohaib56?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a>
+</p>
+
+---
+
+## Tech Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadsohaib56&show_icons=true&hide_border=true&theme=transparent&hide_title=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsohaib56&layout=compact&hide_border=true&theme=transparent&hide_title=true" alt="Top languages">
+</p>
+
+---
+
+## Open To
+
+Collaboration on **generative AI and machine learning projects** — especially retrieval systems, LLM tooling, and applied NLP. If you're working on something in that space, [get in touch](mailto:sohaibshoukat56@gmail.com).
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadsohaib56&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
