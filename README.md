@@ -171,26 +171,6 @@ Open-source work includes a [healthcare RAG system](https://github.com/muhammads
 
 ---
 
-## GitHub Activity
-
-<!-- ─────────────────────────────────────────────────────────────
-     These cards point at YOUR-INSTANCE.vercel.app — a self-hosted
-     deploy of github-readme-stats. See the README setup notes for
-     why the public instance fails and how to deploy your own.
-     Replace YOUR-INSTANCE with your Vercel project name.
-     ───────────────────────────────────────────────────────────── -->
-
-<p align="center">
-  <a href="https://github.com/muhammadsohaib56">
-    <img height="160" src="https://github-readme-stats-xi-nine-13.vercel.app/api?username=muhammadsohaib56&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&hide_title=true&cache_seconds=21600" alt="GitHub stats">
-  </a>
-  <a href="https://github.com/muhammadsohaib56?tab=repositories">
-    <img height="160" src="https://github-readme-stats-xi-nine-13.vercel.app/api/top-langs?username=muhammadsohaib56&layout=compact&hide_border=true&langs_count=8&theme=transparent&hide_title=true&cache_seconds=21600" alt="Top languages">
-  </a>
-</p>
-
----
-
 ## Open To
 
 Collaboration on **generative AI and machine learning** work — RAG systems, agent architectures, applied NLP and computer vision. If you're building in that space, [say hello](mailto:sohaibshoukat56@gmail.com).
