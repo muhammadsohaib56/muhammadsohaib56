@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI / ML Engineer</b><br>
-  <sub>Generative AI · Retrieval-Augmented Generation · Computer Vision · NLP</sub>
+  <sub>Machine Learning · Deep Learning · Generative AI · Agentic AI · Computer Vision · NLP</sub>
 </p>
 
 <p align="center">
